@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KONTAK</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+nav {	float: left;
+  	width: 15%;
+  	background: #F1DAC4;
+ 	padding: 10px;}
+
+nav ul {	list-style-type: none;
+  		padding: 0;}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  font-family: times new roman;
+  	font-size: 17px;
+	text-align: justify;
+    color: white}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;}
+
+footer {
+  background-color: #F1DAC4;
+  padding: 10px;
+  text-align: center;
+  color: 070A0D;}
+
+body {background-color: #161B33;}
+
+.header {	
+padding: 40px;
+color: #070A0D; 
+	text-align: center; 	
+	font-family: times new roman; 
+	font-size: 40px;
+    background:#8D8FB9}
+
+</style>
+</head>
+<body>
+<div class="header">
+  <h3>MAN Insan Cendekia Serpong</h3>
+  <p>Penerimaan Peserta Didik Baru 2023</hp>
+</div>
+<section>
+  <nav>
+    <ul>
+      <img src="ICNews.jpg" width="150" height="100" >
+      <li><a href="index.html"> Home</a></li>
+      <li><a href="fasilitas.html"> Fasilitas</a></li>
+      <li><a href="kegiatan.html"> Kegiatan</a></li>
+      <li><a href="kontak.html"> Kontak</a></li>
+    </ul>
+  </nav>
+<article>
+	<p> Alamat: BSD Sektor XI Jl. Cendekia, Ciater, Kec. Serpong, Kota Tangerang Selatan, Banten 15310 </p>
+	<p> Kontak: 0856-9796-2120 </p>
+	<p> Instagram:<a href = "https://www.instagram.com/official_manics/"> Akun Resmi official_manics</a></p>
+	<p> YouTube: <a href = "https://www.youtube.com/c/MANInsanCendekiaSerpong"> Channel MAN Insan Cendekia Serpong</a></p>
+	<p> Alamat Website: <a href = "https://ic.sch.id/"> Website MAN Insan Cendekia Serpong</a></p>
+</article>
+</section>
+
+<footer>
+  <p>Made by Fatati Nadia Fasya Arifin (3200004)</p>
+</footer>
+
+</body>
+</html>
